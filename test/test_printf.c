@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	int n;
-	int *p = &n;
-	printf("%p\n", p);
+	char *c;
+	printf(NULL);
+	return (0);
 }
