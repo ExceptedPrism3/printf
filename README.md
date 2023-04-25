@@ -11,9 +11,6 @@ git clone https://github.com/ExceptedPrism3/printf.git
 ## Prerequisites
 To run the printf function, you will need to have a C compiler installed on your machine. If you don't have a C compiler installed, you can install GCC on Linux or MinGW on Windows.
 
-## Installation
-To install the printf function, simply include the "holberton.h" header file in your C program, and compile the program with the "holberton.c" source file.
-
 ## Collaborators
 - Me
 - SABRI Hafsa
